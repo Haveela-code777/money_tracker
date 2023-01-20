@@ -1,0 +1,11 @@
+asgiref
+attrs
+Django
+django-cors-headers
+djangorestframework
+gunicorn
+Jinja2
+Pillow
+python-dateutil
+requests
+setuptools
