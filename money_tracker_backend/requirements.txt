@@ -2,6 +2,7 @@ asgiref
 attrs
 Django
 django-cors-headers
+django-rest-auth
 djangorestframework
 gunicorn
 Jinja2
