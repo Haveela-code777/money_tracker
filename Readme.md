@@ -40,3 +40,15 @@
 #### By Default server will be running in 3000 port. Server URL : "http://localhost:3000"
 
 ## Go To http://localhost:3000
+
+### Use these login details
+
+glory@tracker.com
+glorypassword
+
+### To access using Other accounts
+
+<username>@tracker.com
+<username>password
+
+<username> can be of {john, caleb, lewis, mary}
