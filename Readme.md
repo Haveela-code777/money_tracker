@@ -43,12 +43,12 @@
 
 ### Use these login details
 
-glory@tracker.com
-glorypassword
+    glory@tracker.com
+    glorypassword
 
 ### To access using Other accounts
 
-<username>@tracker.com
-<username>password
+    <username>@tracker.com
+    <username>password
 
-<username> can be of {john, caleb, lewis, mary}
+    <username> can be of {john, caleb, lewis, mary}
